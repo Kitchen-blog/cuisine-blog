@@ -10019,3 +10019,9 @@ h3 {
   text-transform: uppercase;
   font-weight: bold;
 }
+
+.sidebar {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 120px;
+}
